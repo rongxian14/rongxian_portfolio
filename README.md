@@ -15,7 +15,7 @@ Detail-oriented and analytical Computer Science (Bioinformatics) undergraduate w
 📌 Feel free to explore the repositories below for more!
 Want to collaborate or have a question? \
 📫 Reach me at: leexian@graduate.utm.my\
-🌐 LinkedIn: linkedin.com/in/lee-r-a6760428a
+🌐 LinkedIn: [linkedin.com/in/lee-r-a6760428a](https://www.linkedin.com/in/lee-r-a6760428a/)
 
 # 🔍 Featured Projects
 
