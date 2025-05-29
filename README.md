@@ -12,5 +12,10 @@ With hands-on experience in both data analysis and system development, I’m pas
 # 🎯 Career Objective
 Detail-oriented and analytical Computer Science (Bioinformatics) undergraduate with strong proficiency in SQL, Python, and data visualization tools. Passionate about transforming complex data into actionable insights to support strategic decision-making. 
 
+📌 Feel free to explore the repositories below for more!
+Want to collaborate or have a question?
+📫 Reach me at: leexian@graduate.utm.my
+🌐 LinkedIn: linkedin.com/in/lee-r-a6760428a
+
 # 🔍 Featured Projects
 
