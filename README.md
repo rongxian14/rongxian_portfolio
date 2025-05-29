@@ -1,6 +1,16 @@
-# RongXian's Portfolio
-A highly motivated university student pursuing a degree in CS, with hands-on experience in data analysis and software development. Skilled in conducting sustainability research and proficient in healthcare data preprocessing using AI methodologies. While focusing on data analytics and AI projects, my academic and project experience also covers core CS concepts including mobile app development, databases, and software documentation — giving me the technical versatility to collaborate effectively across teams.
+# 👋 Welcome to RongXian's Portfolio
+Hello! I'm a highly motivated university student pursuing a degree in Computer Science (Bioinformatics). This GitHub portfolio showcases a collection of my academic and personal projects in:
 
-## 🎯 Career Objective
+- 🧠 Data Analytics & AI
+- 📊 Business Intelligence
+- 🏥 Healthcare Data Processing
+- 💻 Web Development
+- 📱 Mobile Application Development
+
+With hands-on experience in both data analysis and system development, I’m passionate about applying technology to solve real-world problems. I have a solid foundation in Python, SQL, Power BI, and Flutter, and enjoy exploring how data and AI can be integrated into sustainable and impactful solutions.
+
+# 🎯 Career Objective
 Detail-oriented and analytical Computer Science (Bioinformatics) undergraduate with strong proficiency in SQL, Python, and data visualization tools. Passionate about transforming complex data into actionable insights to support strategic decision-making. 
-#
+
+# 🔍 Featured Projects
+
