@@ -25,7 +25,7 @@ Want to collaborate or have a question? \
 - Evaluated the performance of the ECG beats classification model using the accuracy, precision, recall and F1-score.
 - Published a short paper based on the research work.
 
-### 🏥 [Prediction of Lung Cancer using Recursive Feature Elimination]() 
+### 🏥 [Prediction of Lung Cancer using Recursive Feature Elimination](https://github.com/NiesHW/SECB3203_P4B/tree/main/Group_Project/Group_4) 
 *Group Research| Python (Numpy, Pandas, Tensorflow)*
 - Predicted lung cancer based on the symptoms of the patients
 - Developed and applied the RFE technique to systematically eliminate irrelevant features to enhance the accuracy of lung cancer prediction models.
@@ -38,8 +38,12 @@ Want to collaborate or have a question? \
 - Applied design thinking principles (empathise, define, ideate) to develop actionable recommendations for enhancing applicant creditworthiness and improving loan approval
 strategies.
 
+### 📊 [BikeStore Sales Data Analysis Project] (https://github.com/rongxian14/BikeStore-Sales-DA)
+- Executed a full-scale business intelligence project using SQL Server, Excel, and Tableau — from database setup and SQL querying to data visualization — demonstrating strong analytical and technical integration across tools.
+- Developed advanced interactive dashboards with Excel (PivotTables, slicers) and Tableau (bar charts, maps, treemaps, KPIs) to present dynamic sales insights, improving decision-making on customer and product performance.
+- Generated actionable business recommendations by analyzing trends in revenue, store performance, and customer segmentation — guiding strategic focus on top-performing regions, sales reps, and product categories.
 
-### 📱 [KinderJoy Mobile Application]()
+### 📱 [KinderJoy Mobile Application](https://github.com/DUOKinderJoy/mobile_app)
 - Developed an application to facilitate parents to make online payments for study fees and the parents can also select whether their children will need meals for certain months.
 - Involved in Use case diagram, Architecture Pattern, Package Diagram, Data Design, Requirements Traceability Matrix and Test Cases in System Documentation.
 
