@@ -18,7 +18,7 @@ Want to collaborate or have a question? \
 🌐 LinkedIn: [linkedin.com/in/lee-r-a6760428a](https://www.linkedin.com/in/lee-r-a6760428a/)
 
 # 🔍 Featured Projects
-## [Classification of Electrocardiogram Beats using Convolutional Neural Network](https://github.com/rongxian14/1D_CNN_ECG_Beat_Classification) \
+### [Classification of Electrocardiogram Beats using Convolutional Neural Network](https://github.com/rongxian14/1D_CNN_ECG_Beat_Classification) 
 *Individual Research | Python*
 - Implemented SMOTE (Synthetic Minority Over-sampling Technique) and Random Undersampling algorithms in Python to address class imbalance in the MIT-BIH Arrhythmia Dataset.
 - Developed an ECG beats classification model based on CNN, improving the annotation of both ECG beats and segments and outperforming the existing algorithm.
