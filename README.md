@@ -1,9 +1,9 @@
 # 👋 Welcome to RongXian's Portfolio
-Hello! I'm a highly motivated university student pursuing a degree in Computer Science (Bioinformatics). This GitHub portfolio showcases a collection of my academic and personal projects in:
-
-- 🧠 Data Analytics & AI
+Hello! I'm a highly motivated university student pursuing a degree in Computer Science (Bioinformatics). This GitHub portfolio showcases a collection of my academic and personal projects in:\
+#### 🧠 Data-Driven Analysis
 - 📊 Business Intelligence
 - 🏥 Healthcare Data Processing
+#### 📲 End-to-End Software Development
 - 💻 Web Development
 - 📱 Mobile Application Development
 
