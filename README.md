@@ -31,7 +31,7 @@ Want to collaborate or have a question? \
 - Developed and applied the RFE technique to systematically eliminate irrelevant features to enhance the accuracy of lung cancer prediction models.
 - Developed the effectiveness of RFE in selecting the most relevant features for lung cancer prediction.
 
-### 📊 [Factors Determining Loan Eligibility]() 
+### 📊 [Factors Determining Loan Eligibility](https://github.com/rongxian14/Loan-Risk-Capstone-Project) 
 *Data Storyteller | Excel Analytics, Power BI*
 - Analysed factors affecting loan eligibility using Excel Analytics and Power BI.
 - Created two interactive dashboards highlighting key insights such as the impact of credit history, self-employment, and property area on loan approval and default risks across different household groups.
