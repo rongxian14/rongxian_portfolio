@@ -47,8 +47,8 @@ strategies.
 - Developed an application to facilitate parents to make online payments for study fees and the parents can also select whether their children will need meals for certain months.
 - Involved in Use case diagram, Architecture Pattern, Package Diagram, Data Design, Requirements Traceability Matrix and Test Cases in System Documentation.
 
-### 💻 [Web-Based News Aggregator]()
+### 💻 [Web-Based News Aggregator](https://github.com/rongxian14/Web-based-News-Aggregator)
 *Moderator & Reporter | HTML, CSS, PHP, MySQL*
-- Developed a website to address the challenges of information overload and fake news by providing a reliable platform for accessing news articles from diverse sources.
-- Using HTML and CSS for the frontend interface; PHP and MySQL for the backend interface.
-- Involved Agile Methodology and CRUD operations.
+- Designed and developed a news aggregator website from scratch using HTML, CSS, PHP, and MySQL, following the Agile methodology with iterative sprints and stakeholder feedback to ensure continuous improvement and functional delivery.
+- Implemented a user-centered design process including requirements gathering, wireframing, front-end development with responsive styling, and back-end data handling for user login and content storage using MySQL.
+- Conducted usability testing and evaluation with real users using the WAMMI framework; collected and analyzed user feedback via questionnaires to refine usability, enhance user satisfaction, and drive iterative improvements.
