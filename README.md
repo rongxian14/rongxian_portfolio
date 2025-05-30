@@ -20,9 +20,7 @@ Want to collaborate or have a question? \
 # 🔍 Featured Projects
 [Classification of Electrocardiogram Beats using Convolutional Neural Network](https://github.com/rongxian14/1D_CNN_ECG_Beat_Classification)
 *Individual Research | Python*
-- Implemented SMOTE (Synthetic Minority Over-sampling Technique) and Random Undersampling
-algorithms in Python to address class imbalance in the MIT-BIH Arrhythmia Dataset.
-- Developed an ECG beats classification model based on CNN, improving the annotation of both
-ECG beats and segments and outperforming the existing algorithm.
-- Evaluated the performance of the ECG beats classification model using the Kappa Coekicient,
-accuracy, precision, recall and F1-score.
+- Implemented SMOTE (Synthetic Minority Over-sampling Technique) and Random Undersampling algorithms in Python to address class imbalance in the MIT-BIH Arrhythmia Dataset.
+- Developed an ECG beats classification model based on CNN, improving the annotation of both ECG beats and segments and outperforming the existing algorithm.
+- Evaluated the performance of the ECG beats classification model using the accuracy, precision, recall and F1-score.
+- Published a short paper based on the research work.
