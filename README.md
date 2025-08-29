@@ -19,14 +19,14 @@ Want to collaborate or have a question? \
 
 # 🔍 Featured Projects
 ### 🏥 [Classification of Electrocardiogram Beats using Convolutional Neural Network](https://github.com/rongxian14/1D_CNN_ECG_Beat_Classification) 
-*Individual Research | Python (Numpy, Pandas, Tensorflow)*
+*Individual Research | Python (Numpy, Pandas, Matplotlib, Seaborn, Keras, Sklearn, Tensorflow)*
 - Implemented SMOTE (Synthetic Minority Over-sampling Technique) and Random Undersampling algorithms in Python to address class imbalance in the MIT-BIH Arrhythmia Dataset.
 - Developed an ECG beats classification model based on CNN, improving the annotation of both ECG beats and segments and outperforming the existing algorithm.
 - Evaluated the performance of the ECG beats classification model using the accuracy, precision, recall and F1-score.
 - Published a short paper based on the research work.
 
 ### 🏥 [Prediction of Lung Cancer using Recursive Feature Elimination](https://github.com/NiesHW/SECB3203_P4B/tree/main/Group_Project/Group_4) 
-*Group Research| Python (Numpy, Pandas, Tensorflow)*
+*Group Research| Python (Numpy, Pandas, Keras, Sklearn, Tensorflow)*
 - Predicted lung cancer based on the symptoms of the patients
 - Developed and applied the RFE technique to systematically eliminate irrelevant features to enhance the accuracy of lung cancer prediction models.
 - Developed the effectiveness of RFE in selecting the most relevant features for lung cancer prediction.
