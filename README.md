@@ -38,7 +38,7 @@ Want to collaborate or have a question? \
 - Applied design thinking principles (empathise, define, ideate) to develop actionable recommendations for enhancing applicant creditworthiness and improving loan approval
 strategies.
 
-### 📊 [BikeStore Sales Data Analysis Project](https://github.com/rongxian14/BikeStore-Sales-DA)
+### 📊 [BikeStore Sales Data Analysis](https://github.com/rongxian14/BikeStore-Sales-DA)
 - Executed a full-scale business intelligence project using SQL Server, Excel, and Tableau — from database setup and SQL querying to data visualization — demonstrating strong analytical and technical integration across tools.
 - Developed advanced interactive dashboards with Excel (PivotTables, slicers) and Tableau (bar charts, maps, treemaps, KPIs) to present dynamic sales insights, improving decision-making on customer and product performance.
 - Generated actionable business recommendations by analyzing trends in revenue, store performance, and customer segmentation — guiding strategic focus on top-performing regions, sales reps, and product categories.
